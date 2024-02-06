@@ -1,5 +1,7 @@
+import { Container } from "./components/Container";
+
 const App = () => {
-  return <div> Cata</div>;
+  return <Container>bbbbb</Container>;
 };
 
 export default App;
